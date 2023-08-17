@@ -1,0 +1,29 @@
+body{
+  background-image:url("8dabc9e205ac778c48491337da43823e.gif") ;
+}
+.container {
+  text-align: center;
+  margin-top: 50px;
+}
+
+table {
+  background-color: rgb(108, 223, 227);
+  border: 1px solid;
+  border-collapse: collapse;
+  margin: 10px auto;
+  
+}
+
+th, td {
+
+  border: 1px solid black;
+  padding: 8px;
+}
+
+button {
+  padding: 5px 10px;
+  background-color: #007bff;
+  color: #ffffff;
+  border: none;
+  cursor: pointer;
+}
